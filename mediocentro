@@ -1,0 +1,45 @@
+<html>
+    <head> <meta name="viewport" content="widht=device-widht, initial-scale=1"/>  <link rel="stylesheet" href="./ejercicio5.css"/></head>
+    <body>
+
+        
+            <header>
+                <h1>Defensa</h1>
+            </header>
+
+    
+
+            <div class="container">
+                <div id="row1" class="row">
+                    <div class="element element-1">
+                        <div class="image">
+                            <img src="https://i.ytimg.com/vi/3iYAu5GfZqI/maxresdefault.jpg">
+                        </div>
+                        <p>ronaldinho en su pais</p>
+                        <p class="autor">Autor</p>
+                    </div>
+                </div>
+                <div id="row2"  class="row">
+                    <div class="element-2">
+                        <div class="image">
+                            <img src="https://scontent-mad2-1.xx.fbcdn.net/v/t1.6435-9/70396198_381214942558685_2508598893315358720_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=f-g9QS8mmgQAX-npWNj&_nc_ht=scontent-mad2-1.xx&oh=00_AfB3iCGsl7RabEKXkSlfkvEgpKu0dD7Lj7NVXnNYF43kAQ&oe=65575D70">
+                        </div>
+                        <p>Trofeos de ronaldinho</p>
+                        <p class="autor">Autor</p>
+                    </div>
+                </div>
+
+                <div id="row3" class="row">
+                    <div class="element-3">
+                        <div class="image">
+                            <img src="https://imagenes.razon.com.mx/files/image_940_470/uploads/2021/07/06/60e4893f6733e.jpeg">
+                        </div>
+                        <p>ronaldinho de fiesta</p>
+                        <p class="autor">Autor</p>
+                    </div>
+                </div>
+
+            
+            </div>
+    </body>
+</html>
