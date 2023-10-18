@@ -1,0 +1,45 @@
+<html>
+    <head> <meta name="viewport" content="widht=device-widht, initial-scale=1"/>  <link rel="stylesheet" href="./ejercicio5.css"/></head>
+    <body>
+
+        
+            <header>
+                <h1>Defensa</h1>
+            </header>
+
+    
+
+            <div class="container">
+                <div id="row1" class="row">
+                    <div class="element element-1">
+                        <div class="image">
+                            <img src="https://assets-es.imgfoot.com/imgpsh-fullsize-anim-638529e18b746.jpg">
+                        </div>
+                        <p>Pepe en el equipo de Portugal</p>
+                        <p class="autor">Autor</p>
+                    </div>
+                </div>
+                <div id="row2"  class="row">
+                    <div class="element-2">
+                        <div class="image">
+                            <img src="https://pbs.twimg.com/media/D9gI10yXYAAVoSx.jpg:large">
+                        </div>
+                        <p>Trofeo de la liga de naciones</p>
+                        <p class="autor">Autor</p>
+                    </div>
+                </div>
+
+                <div id="row3" class="row">
+                    <div class="element-3">
+                        <div class="image">
+                            <img src="https://i.eurosport.com/2012/10/19/901637-19974775-2560-1440.jpg">
+                        </div>
+                        <p>Pepe con su amigo Cristiano Ronaldo apodado como (EL BICHO)</p>
+                        <p class="autor">Autor</p>
+                    </div>
+                </div>
+
+            
+            </div>
+    </body>
+</html>
