@@ -1,0 +1,55 @@
+<html>
+    <head> <meta name="viewport" content="widht=device-widht, initial-scale=1"/>  <link rel="stylesheet" href="./ejercicio5.css"/></head>
+    <body>
+        <header>
+            <h1>EL TRIO EMBLEMATICO
+            </h1>
+        </header>
+       <nav>
+        <ul>
+            <li><a href="portero.html">portero</a></li>
+            <li><a href="defensa.html">defensa</a></li>
+            <li><a href="mediocentro.html">mediocentro</a></li>
+            <li><a href="contacto.html">contacto</a></li>
+        </ul>
+       </nav>
+        
+           
+
+            
+
+            <div class="container">
+                <div id="row1" class="row">
+                    <div class="element element-1">
+                        <div class="image">
+                            <img src="https://images6.alphacoders.com/116/1164854.png">
+                        </div>
+                        <p>Pepe el mejor defensa del mundo</p>
+                        <p class="autor">Pepe</p>
+                    </div>
+                </div>
+                <div id="row2"  class="row">
+                    <div class="element-2">
+                        <div class="image">
+                            <img src="https://images.alphacoders.com/104/1046549.jpg">
+                        </div>
+                        <p>Ronaldinho, el mejor centrocampista del mundo</p>
+                        <p class="autor">Ronaldinho</p>
+                    </div>
+                </div>
+
+                <div id="row3" class="row">
+                    <div class="element-3">
+                        <div class="image">
+                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/857487f8-36dd-477f-b5de-69e71cacde0c/d8aqxkc-97283a47-8841-4e6c-aff4-d78e33715883.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg1NzQ4N2Y4LTM2ZGQtNDc3Zi1iNWRlLTY5ZTcxY2FjZGUwY1wvZDhhcXhrYy05NzI4M2E0Ny04ODQxLTRlNmMtYWZmNC1kNzhlMzM3MTU4ODMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9JSQN-5tyYJ8wEakzcpiImhMBnO2tkw_tpY5JK1xsGk">
+                        </div>
+                        <p>Casillas el mejor portero del mundo</p>
+                        <p class="autor">Iker Casillas</p>
+                    </div>
+                </div>
+
+            
+            </div>
+    </body>
+</html>
+
